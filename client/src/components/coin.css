@@ -1,0 +1,13 @@
+.box {
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.box.green {
+    background-color: green;
+}
