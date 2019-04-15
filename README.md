@@ -2,6 +2,7 @@
 
 Requirements: 
 - Ganache `brew cask install ganache` or https://truffleframework.com/ganache
+- Ganache `Open Ganache and click the little cog then change the port to 8545`
 - truffle `npm install -g truffle`
 - MetaMask add the browser extension: https://metamask.io/
 - npm
